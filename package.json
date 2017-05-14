@@ -1,0 +1,17 @@
+{
+  "name": "youtube-messager",
+  "version": "1.0.0",
+  "description": "To Troll Jasper",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Veldro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nexmo": "^2.0.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
